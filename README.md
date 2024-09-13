@@ -2,6 +2,7 @@
 Répertoire qui contient les documents liés aux vidéos UML sur la chaine Youtube Algomius : https://youtu.be/xDYMLA8iqF4
 
 Les schémas ont été réalisés avec l'outil staruml disponible ici : https://staruml.io/
+Ou avec le logiciel gratuit draw.io : https://app.diagrams.net/
 
 0. Introduction à UML
 +---------------------------------+
@@ -33,7 +34,12 @@ Les schémas ont été réalisés avec l'outil staruml disponible ici : https://
 - Vidéo introductive : https://youtu.be/aensqaJN9VE
 - Exemple concret : (à venir)
 
-5. Diagramme d'activité
+6. Diagramme de contexte
 +---------------------------------+
 - Vidéo introductive : (à venir)
-- Exemple concret : (à venir)
+- Exemple concret : A ouvrir avec draw.io : https://app.diagrams.net/
+
+7. Diagramme de deploiement
++---------------------------------+
+- Vidéo introductive : (à venir)
+- Exemple concret : A ouvrir avec draw.io : https://app.diagrams.net/
